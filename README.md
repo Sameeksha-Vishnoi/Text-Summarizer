@@ -14,9 +14,11 @@ Before running the code, we need to download a couple of libraries.
 To do so execute the following command at the command prompt:
 
 1. The first library is the 'beautiful soup' which is very useful Python utility for web scraping.
+
 $ pip install beautifulsoup4
 
 2. The second library is 'lxml' that we need to parse XML and HTML.
+
 $ pip install lxml
   
   
